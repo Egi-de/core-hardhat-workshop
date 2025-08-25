@@ -1,4 +1,14 @@
-Perfect 👍 Here’s the full polished version of your **README.md** ready for copy–paste directly into VS Code:
+## 📖 Project Overview
+
+**RandaCore** is a Solidity-based smart contract project built using the Hardhat development framework.  
+It serves as a foundation for experimenting with decentralized applications (dApps) by providing:
+
+- A core contract (`RandaCore`) that can be extended for various blockchain use cases.
+- A sample `Lock` contract to demonstrate Hardhat’s testing environment.
+- Scripts for deployment and interaction on both local and public test networks.
+- Environment-based configuration for secure and flexible contract management.
+
+This setup is designed for learning, experimenting, and serving as a starting point for larger smart contract systems.
 
 ````markdown
 # RandaCore – Hardhat Project
@@ -116,13 +126,11 @@ npx hardhat run scripts/interact.js --network localhost
 
 ## 📸 Screenshots
 
-![RandaCore Screenshot](./Screenshot 2025-08-25 121546.png)
+![RandaCore Screenshot](./screenshot.png)
 
 ```
 
 ---
 
-👉 This is clean, professional, and safe to paste directly into your README.
 
-Do you also want me to **add a short “Project Overview” section** at the top (explaining what `RandaCore` is meant to do) so it looks even more original?
 ```
