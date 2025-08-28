@@ -127,6 +127,8 @@ npx hardhat run scripts/interact.js --network localhost
 ## 📸 Screenshots
 
 ![RandaCore Screenshot](./screenshot.png)
+![RandaCore Screenshot](./screenshot1.png)
+![RandaCore Screenshot](./screenshot1.png)
 
 ```
 
